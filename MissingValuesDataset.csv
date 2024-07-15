@@ -1,0 +1,9 @@
+,Name,WorkType,Age,YearlySalary,TotalExperience
+0,Sarah,Contract,32.0,,7.0
+1,Blake,Contract-To-Hire,38.0,150000.0,8.0
+2,Gina,,55.0,200000.0,
+3,Timmy,Part-time,23.0,55000.0,4.0
+4,Wayne,Full-Time,46.0,175000.0,
+5,,Full-Time,34.0,190000.0,6.0
+6,,Part-Time,29.0,80000.0,5.0
+7,Joshua,Contract-To-Hire,,,9.0
